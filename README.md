@@ -1,7 +1,5 @@
 # Flutter Front-end Test - Building a Search Box Component
 
-Versions in other languages: [中文](./README-ZH.md)
-
 We want you to develop a search box component that has the function of searching for the programming tools we are using at DC. Let's get started!
 
 ## Materials
